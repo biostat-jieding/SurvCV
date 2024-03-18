@@ -1,13 +1,13 @@
-# ATransHPH
-This is an R package that focuses on aggregate information transfer-assisted estimation and inference for high-dimensional Cox proportional hazards model.
+# ATransPH
+This is an R package that focuses on aggregate information transfer-assisted estimation and inference for both low and high dimensional Cox proportional hazards models.
 
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
-  - with **subgroup survival probabilities at given time points** as auxiliary information (AuxSP-Low)
-  - with **estimates from fitted submodels** as auxiliary information (AuxCE-Low)
+  - with **subgroup survival probabilities at multiple time points** as auxiliary information (AuxSP-Low)
+  - with **estimates from multiple fitted submodels** as auxiliary information (AuxCE-Low)
 - **High-dimensional** Cox proportional hazards model:
-  - with **subgroup group survival probabilities at given time points** as auxiliary information (AuxSP-High)
-  - with **estimates from fitted submodels** as auxiliary information (AuxCE-High)
+  - with **subgroup group survival probabilities at multiple time points** as auxiliary information (AuxSP-High)
+  - with **estimates from multiple fitted submodels** as auxiliary information (AuxCE-High)
 
 
 
