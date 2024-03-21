@@ -4,10 +4,8 @@ This is an R package that focuses on aggregate information transfer-assisted est
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
   - with **subgroup survival probabilities at multiple time points** as auxiliary information (AuxSP-Low)
-  - with **estimates from multiple fitted submodels** as auxiliary information (AuxCE-Low)
 - **High-dimensional** Cox proportional hazards model:
   - with **subgroup group survival probabilities at multiple time points** as auxiliary information (AuxSP-High)
-  - with **estimates from multiple fitted submodels** as auxiliary information (AuxCE-High)
 
 
 
