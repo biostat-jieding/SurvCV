@@ -8,8 +8,8 @@ Briefly speaking, this package can implement the following cases:
   - with **subgroup group survival probabilities at multiple time points** as auxiliary information (SP-High)
 
 Survival data analysis from various perspectives is also of interest: 
-- **Estimation**: Estimation of potentially prognostic effects for interested risk factors
-- **Inference**: Hypothesis testings towards prognostic effects
-- **Prediction**: Prognostic prediction based on pure risks
+- **Estimation**: Estimation of relative risk - prognostic effects for interested risk factors
+- **Prediction**: Prognostic prediction of pure risk - based on pure risks
+- ***Inference for both of them***
 
 We will add more details in the near future. Thank you for your attention!
