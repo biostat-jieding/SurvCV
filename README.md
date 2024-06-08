@@ -1,5 +1,5 @@
 # ATranSurv
-This is an R package that focuses on auxiliary information transfer learning-assisted estimation and inference for both low and high dimensional Cox proportional hazards models.
+This is an R package that focuses on **A**uxiliary information **Trans**fer learning-assisted estimation and inference for both low and high dimensional **Surv**ival models.
 
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
