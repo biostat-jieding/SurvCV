@@ -1,4 +1,4 @@
-# ATranSurv
+# TransPH
 This is an R package that focuses on **A**uxiliary information **Trans**fer learning-assisted estimation and inference for both low and high dimensional **Surv**ival models.
 
 Briefly speaking, this package can implement the following cases:
