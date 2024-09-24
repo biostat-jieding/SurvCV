@@ -1,6 +1,8 @@
 # *survaux* R package
 Focuses on enhancing **surv**ival analysis in target domain by transferring **aux**iliary information extracted from source domains. 
-- both low and high dimensional Cox proportional hazards model are considered.
+- allow for low and high dimensional covariates
+- based on the Cox proportional hazards model
+- extension to include a cured fraction
 
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
