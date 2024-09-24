@@ -1,5 +1,6 @@
-# TransPH
-This is an R package that focuses on **A**uxiliary information **Trans**fer learning-assisted estimation and inference for both low and high dimensional **Surv**ival models.
+# *survaux* R package
+Focuses on enhancing **surv**ival analysis in target domain by transferring **aux**iliary information extracted from source domains. 
+- both low and high dimensional Cox proportional hazards model are considered.
 
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
@@ -9,7 +10,6 @@ Briefly speaking, this package can implement the following cases:
 
 Survival data analysis from various perspectives is also of interest: 
 - **Estimation**: Estimation of relative risk - prognostic effects for interested risk factors
-- **Prediction**: Prognostic prediction of pure risk - based on pure risks
-- ***Inference for both of them***
+- **Inference**: Condcut statistical inference
 
 We will add more details in the near future. Thank you for your attention!
