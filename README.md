@@ -1,5 +1,5 @@
 # *survaux* R package
-Focuses on enhancing **surv**ival analysis in target domain by transferring **aux**iliary information extracted from source domains. 
+It focuses on enhancing **surv**ival analysis in target domain by transferring **aux**iliary information extracted from source domains. 
 - allow for low and high dimensional covariates
 - based on the Cox proportional hazards model
 - key underlying technique is the control variate
