@@ -1,5 +1,5 @@
-# *survaux* *atransurv* R package
-It focuses on enhancing **surv**ival analysis in target domain by transferring **aux**iliary information extracted from source domains. 
+# *survaux* R package
+It focuses on enhancing **surv**ival analysis in target domains by transferring **aux**iliary information extracted from external source domains. 
 - allow for low and high dimensional covariates
 - based on the Cox proportional hazards model
 - key underlying technique is the control variate
