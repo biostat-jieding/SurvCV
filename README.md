@@ -1,4 +1,6 @@
 # *survaux* R package
+
+## Brief Introduction
 It focuses on enhancing **surv**ival analysis in target domains by transferring **aux**iliary information extracted from external source domains. 
 - allow for low and high dimensional covariates
 - based on the Cox proportional hazards model
@@ -9,7 +11,7 @@ It focuses on enhancing **surv**ival analysis in target domains by transferring 
   - Ding, J., Li, J., Zhang, M., & Wang, X. (2024). **CureAuxSP: An R package for estimating mixture cure models with auxiliary survival probabilities**. *Computer Methods and Programs in Biomedicine*, 251, 108212. 
 
 
-## Package description
+## Package Description and Main Functions
 
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
