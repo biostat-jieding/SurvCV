@@ -10,9 +10,6 @@ It focuses on enhancing **surv**ival analysis in target domains by transferring 
   - Ding, J., Li, J., & Wang, X. (2024). **Efficient auxiliary information synthesis for cure rate model**. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 73(2), 497-521.
   - Ding, J., Li, J., Zhang, M., & Wang, X. (2024). **CureAuxSP: An R package for estimating mixture cure models with auxiliary survival probabilities**. *Computer Methods and Programs in Biomedicine*, 251, 108212. 
 
-
-## Package Description and Main Functions
-
 Briefly speaking, this package can implement the following cases:
 - **Low-dimensional** Cox proportional hazards model:
   - with **subgroup survival probabilities at multiple time points** as auxiliary information (SP-Low)
@@ -22,5 +19,9 @@ Briefly speaking, this package can implement the following cases:
 Survival data analysis from various perspectives is also of interest: 
 - **Estimation**: Estimation of relative risk - prognostic effects for interested risk factors
 - **Inference**: Condcut statistical inference
+
+## Package Description and Main Functions
+
+
 
 We will add more details in the near future. Thank you for your attention!
