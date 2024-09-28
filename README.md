@@ -2,10 +2,10 @@
 
 ## Brief Introduction
 It focuses on enhancing **surv**ival analysis in target domains by transferring **aux**iliary information extracted from external source domains. 
-- allow for low and high dimensional covariates
-- based on the Cox proportional hazards model
-- key underlying technique is the control variate
-- extension to include a cured fraction
+- allow for low and high dimensional covariates;
+- based on the Cox proportional hazards model;
+- key underlying technique is the control variate;
+- extension to include a cured fraction;
 - Here are some papers that can help you understand the underlying method:
   - Ding, J., Li, J., & Wang, X. (2024). **Efficient auxiliary information synthesis for cure rate model**. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 73(2), 497-521.
   - Ding, J., Li, J., Zhang, M., & Wang, X. (2024). **CureAuxSP: An R package for estimating mixture cure models with auxiliary survival probabilities**. *Computer Methods and Programs in Biomedicine*, 251, 108212. 
