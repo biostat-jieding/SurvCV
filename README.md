@@ -1,4 +1,5 @@
-# *SurvCV* R package
+# *SurvCV R package*: Auxiliary Information Transfer in Survival Analysis via Control Variate Assisted
+ Transfer
 
 ## Brief Introduction
 It focuses on enhancing **Surv**ival analysis in target domains by transferring aggregate auxiliary information extracted from external source domains (using **C**ontrol **V**ariate). 
