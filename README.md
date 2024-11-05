@@ -1,4 +1,4 @@
-# *SurvCV R package*: Auxiliary Information Transfer in Survival Analysis via Control Variate Assisted
+# *SurvCV R package*: Auxiliary Information Transfer in Survival Analysis via Control Variate Technique
  Transfer
 
 ## Brief Introduction
