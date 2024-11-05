@@ -9,7 +9,6 @@ It focuses on enhancing **Surv**ival analysis in target domains by transferring 
  - Ding, J., Li, J., Xie, P., & Wang, X. (2024+). **Efficient risk assessment of time-to-event targets with adaptive information transfer**. *Statistics in Medicine*, Accepted (In Press).
   - Ding, J., Li, J., & Wang, X. (2024). **Efficient auxiliary information synthesis for cure rate model**. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 73(2), 497-521.
   - Ding, J., Li, J., Zhang, M., & Wang, X. (2024). **CureAuxSP: An R package for estimating mixture cure models with auxiliary survival probabilities**. *Computer Methods and Programs in Biomedicine*, 251, 108212.
-- *This R package was contributed by **Jie Ding** (DUT), **Jialiang Li (NUS)**, **Ping Xie** (DUT), **Mengxiu Zhang** (DUT & SHZU) and **Xiaoguang Wang** (DUT).*
 
 ## Package Description and Main Functions
 
@@ -26,3 +25,6 @@ Survival data analysis from various perspectives is also of interest:
 
 
 We will add more details in the near future. Thank you for your attention!
+
+
+Note: *This R package was contributed together by **Jie Ding** (DUT), **Jialiang Li (NUS)**, **Ping Xie** (DUT), **Mengxiu Zhang** (DUT & SHZU) and **Xiaoguang Wang** (DUT).*
