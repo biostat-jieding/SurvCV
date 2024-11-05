@@ -27,4 +27,4 @@ Survival data analysis from various perspectives is also of interest:
 We will add more details in the near future. Thank you for your attention!
 
 
-Note: *This R package was contributed together by **Jie Ding** (DUT), **Jialiang Li (NUS)**, **Ping Xie** (DUT), **Mengxiu Zhang** (DUT & SHZU) and **Xiaoguang Wang** (DUT).*
+Note: *This R package was contributed together by **Jie Ding** (DUT), **Xiaoguang Wang** (DUT), **Jialiang Li (NUS)**, **Ping Xie** (DUT) and **Mengxiu Zhang** (DUT & SHZU).*
