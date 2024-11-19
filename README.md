@@ -25,10 +25,10 @@ We will add more details in the near future. Thank you for your attention!
 
 ## References and Typos
 
-- Here are some papers that can help you understand the underlying method:
-  - (1). Ding, J., Li, J., & Wang, X. (2024). **Efficient auxiliary information synthesis for cure rate model**. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 73(2), 497-521.
-  - (2). Ding, J., Li, J., Zhang, M., & Wang, X. (2024). **CureAuxSP: An R package for estimating mixture cure models with auxiliary survival probabilities**. *Computer Methods and Programs in Biomedicine*, 251, 108212.
-  - (3). Ding, J., Li, J., Xie, P., & Wang, X. (2024+). **Efficient risk assessment of time-to-event targets with adaptive information transfer**. *Statistics in Medicine*, Accepted (In Press).
+Here are some papers that can help you understand the underlying method:
+- (1). Ding, J., Li, J., & Wang, X. (2024). **Efficient auxiliary information synthesis for cure rate model**. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 73(2), 497-521.
+- (2). Ding, J., Li, J., Zhang, M., & Wang, X. (2024). **CureAuxSP: An R package for estimating mixture cure models with auxiliary survival probabilities**. *Computer Methods and Programs in Biomedicine*, 251, 108212.
+- (3). Ding, J., Li, J., Xie, P., & Wang, X. (2024+). **Efficient risk assessment of time-to-event targets with adaptive information transfer**. *Statistics in Medicine*, Accepted (In Press).
 
 We remark here that in part of these papers, there are actually several typos. For readers' convenient, we list them here (hope these can help you!):
 - In (3), rho should be defined by n/nk, instead of nk/n. Similar for rho.hat.
