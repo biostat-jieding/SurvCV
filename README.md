@@ -31,6 +31,7 @@ Here are some papers that can help you understand the underlying method:
 - (3). Ding, J., Li, J., Xie, P., & Wang, X. (2024+). **Efficient risk assessment of time-to-event targets with adaptive information transfer**. *Statistics in Medicine*, Accepted (In Press).
 
 We remark here that in part of these papers, there are actually several typos. For readers' convenient, we list them here:
+- In the simulation section of (1), ...
 - In (3), rho should be defined by n/nk, instead of nk/n. Similar for rho.hat.
 
 Sorry for these typos and we hope that these revisions can help you!
