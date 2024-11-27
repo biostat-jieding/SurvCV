@@ -32,7 +32,6 @@ Here are some papers that can help you understand the underlying method:
 
 We remark here that in part of these papers, there are actually several typos. For readers' convenient, we list them here:
 - In the simulation section of (1), ...
-- In (3), rho should be defined by n/nk, instead of nk/n. Similar for rho.hat.
 
 Sorry for these typos and we hope that these revisions can help you!
 
