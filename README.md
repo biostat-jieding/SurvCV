@@ -1,4 +1,4 @@
-# *auxcv R package*: Auxiliary Information Transfer via Control Variates
+# *aiscv R package*: Auxiliary Information Synthesis via Control Variates
 
 It focuses on enhancing **Surv**ival analysis in target domains by transferring aggregate auxiliary information extracted from external source domains (using **C**ontrol **V**ariate). 
 - allow for low and high dimensional covariates;
